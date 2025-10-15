@@ -1,7 +1,7 @@
 #include "ColorCode.h" 
 #include <iostream>          
 
-namespace ColorCode
+namespace TelColorCoder
 {
     const char* MajorColorNames[] = {
         "White", "Red", "Black", "Yellow", "Violet"
